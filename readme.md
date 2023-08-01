@@ -1,15 +1,20 @@
 # Java Swing Snake Game
 The Java Swing Snake Game is a project developed for an Object-Oriented Programming (OOP) course. It utilizes various OOP concepts and features multiple displays, including the Homescreen, Highscore, Login, Actual Game, and Help. The project also incorporates file handling for highscores and login functionality.
 ## Features
-### Game Display: The project includes an interactive game display where users can control a snake to eat food and grow longer. The game provides an engaging and challenging experience.
+### Game Display:
+The project includes an interactive game display where users can control a snake to eat food and grow longer. The game provides an engaging and challenging experience.
 
-### Homescreen: The homescreen display welcomes users to the game and offers options to start the game, view high scores, login, or seek help.
+### Homescreen: 
+The homescreen display welcomes users to the game and offers options to start the game, view high scores, login, or seek help.
 
-### Highscore: Users can view the highest scores achieved in the game. The highscore display showcases the top players and their respective scores.
+### Highscore:
+Users can view the highest scores achieved in the game. The highscore display showcases the top players and their respective scores.
 
-### Login: The project includes a login feature that allows users to create an account or log in using existing credentials. This ensures personalized experiences and the ability to track individual achievements.
+### Login:
+The project includes a login feature that allows users to create an account or log in using existing credentials. This ensures personalized experiences and the ability to track individual achievements.
 
-### Help: Users can access a help section that provides instructions and guidelines on how to play the game, control the snake, and understand the game's rules.
+### Help:
+Users can access a help section that provides instructions and guidelines on how to play the game, control the snake, and understand the game's rules.
 
 ## Screenshots
 ![243353454-22f482b1-1b75-4198-b145-b836dcefccd7](https://github.com/SAMEER-UDDIN/Snake-Game-Using-OOP-Concepts/assets/117939808/619cec70-ad68-41cd-9239-9ec5d1d06838)
